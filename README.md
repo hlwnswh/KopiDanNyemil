@@ -3,10 +3,9 @@
 Aplikasi Android pemesanan makanan dan minuman untuk kedai kopi, dibuat dengan Kotlin dan Android Studio. Pengguna dapat mendaftar, masuk, memilih menu, mengisi alamat pengiriman, lalu menerima konfirmasi pesanan. Aplikasi ini dibuat sebagai tugas implementasi wireframe tanpa database.
 
 > **Identitas**
-> - Nama: Hilwa Hilwatun Niswah
-> - NIM: _(isi NIM)_
-> - Mata kuliah: _(isi mata kuliah)_
-> - Dosen pengampu: _(isi nama dosen)_
+> - Nama: Hilwa Hilyatun Niswah
+> - NIM: _1247050030_
+> - Mata kuliah: _Pengembangan Aplikasi Mobile_
 
 ---
 
